@@ -76,6 +76,7 @@ const GamePage = () => {
 
   return (
     <main>
+    <h1>HI</h1>
       <div className="flex-row justify-center" data-cy="game">
         <div
           className="col mb-3 p-3"
